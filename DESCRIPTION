@@ -1,6 +1,6 @@
 Package: scGraphVerse
 Title: scGraphVerse: A Gene Network Analysis Package
-Version: 0.99.21
+Version: 1.0.0
 Authors@R: c(
     person("Francesco", "Cecere", 
            email = "francesco.cecerengs@gmail.com", 
